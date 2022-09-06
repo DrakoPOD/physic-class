@@ -6,7 +6,7 @@
 Esta guía un está en proceso de desarrollo, no es la versión final
 :::
 
-[Descargar guía de medidas](/medidas-v0.6.pdf)
+[Descargar guía de medidas](physic-class/medidas-v0.6.pdf)
 
 ## Unidad 2
 
